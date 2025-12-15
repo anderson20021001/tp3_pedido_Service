@@ -1,4 +1,4 @@
-package com.microservicos.pedido_service;
+package com.microservicos.pedidoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
